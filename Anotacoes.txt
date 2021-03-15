@@ -1,0 +1,38 @@
+Nome do banco de dados: restaurantewp
+latin2_general_ci
+
+Nome do Usuário: restaurantewp
+senha: 123456
+
+<<<<Plugins>>>
+
+Astra Widgets				ok
+https://wpastra.com/child-theme-generator/
+
+Companion Auto Update
+
+Editor Classico				ok
+
+EWWW Image Optimizer			ok
+
+Google Analytics for WordPress by Monsterisights
+
+Importador do WordPress
+
+Microthemer				ok
+
+Rank Math SEO
+
+Ultimate Addons for Gutenberg		ok
+
+UpdraftPlus - Backup/Restore
+
+Imsanity				ok
+
+WP Mail SMTP
+
+WP Super Cache
+
+WPForms Lite				ok
+
+WPS Hide Login				ok
