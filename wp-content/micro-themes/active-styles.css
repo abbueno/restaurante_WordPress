@@ -1,0 +1,15 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Conteúdo ================= */
+
+/** Conteúdo >> Título Cardápio Home **/
+.cardapiohome .uagb-rm__title-wrap {
+	width: 270px !important;
+}
+
+/** Conteúdo >> Preço Cardápio Home **/
+.cardapiohome .uagb-rm__price {
+	width: 80px !important;
+}
+
