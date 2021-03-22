@@ -36,3 +36,9 @@ WP Super Cache
 WPForms Lite				ok
 
 WPS Hide Login				ok
+
+Post Types Order			ok
+
+Simple Lightbox				ok
+
+wp Super Cache				ok
